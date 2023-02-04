@@ -51,7 +51,7 @@ destination_specification = {
     "AMD": "111",
 }
 
-registers = {
+symbol_table = {
     "R0": 0,
     "R1": 1,
     "R2": 2,
